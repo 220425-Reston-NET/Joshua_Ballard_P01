@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerUI\\CustomerUI.csproj": {}
+    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\customerui\\CustomerUI.csproj": {}
   },
   "projects": {
     "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerBL\\CustomerBL.csproj": {
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerUI\\CustomerUI.csproj": {
+    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\customerui\\CustomerUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerUI\\CustomerUI.csproj",
+        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\customerui\\CustomerUI.csproj",
         "projectName": "CustomerUI",
-        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerUI\\CustomerUI.csproj",
+        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\customerui\\CustomerUI.csproj",
         "packagesPath": "C:\\Users\\colds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerUI\\obj\\",
+        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\customerui\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colds\\AppData\\Roaming\\NuGet\\NuGet.Config",
