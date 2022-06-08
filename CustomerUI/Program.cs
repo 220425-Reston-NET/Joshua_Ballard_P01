@@ -1,4 +1,5 @@
-﻿using CustomerUI;
+﻿global using Serilog;
+using CustomerUI;
 using CustomerDL;
 using CustomerBL;
 using Serilog;
@@ -41,6 +42,7 @@ IMenu menu = new MainMenu();
             Log.Information("User going to Select Order");
             menu = new SelectOrder(new OrderBL(new OrderRepository()), new CustomerBL(new SQLCustomerRepository(configuration.GetConnectionString("Joshua_Ballard_Demo"))));
         }
+        
         else if (ans =="Exit"){
             repeat = false;
         }
