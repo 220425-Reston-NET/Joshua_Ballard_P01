@@ -1,4 +1,3 @@
-using CustomerModel;
 
 namespace CustomerDL{
     public interface IRepository<T>{
@@ -18,6 +17,8 @@ namespace CustomerDL{
         /// </summary>
         /// <returns></returns>
         Task<List<T>> GetAllAsync();
+
+        //void Update(T p_resource);
     
     }
 

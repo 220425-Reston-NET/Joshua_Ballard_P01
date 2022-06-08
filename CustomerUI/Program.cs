@@ -37,6 +37,10 @@ IMenu menu = new MainMenu();
             Log.Information("User going to SearchCustomer Menu");
             menu = new SearchCustomer(new CustomersBL(new SQLCustomerRepository(configuration.GetConnectionString("Joshua_Ballard_Demo"))));
         }
+        else if(ans == "SelectOrder"){
+            Log.Information("User going to Select Order");
+            menu = new SelectOrder(new OrderBL(new OrderRepository()), new CustomerBL(new SQLCustomerRepository(configuration.GetConnectionString("Joshua_Ballard_Demo"))));
+        }
         else if (ans =="Exit"){
             repeat = false;
         }
