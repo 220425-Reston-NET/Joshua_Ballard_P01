@@ -1,0 +1,211 @@
+C:\Users\colds\Documents\Revature\Project01\CustomerUI\obj\Debug\net6.0\CustomerUI.csproj.AssemblyReference.cache
+C:\Users\colds\Documents\Revature\Project01\CustomerUI\obj\Debug\net6.0\CustomerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colds\Documents\Revature\Project01\CustomerUI\obj\Debug\net6.0\CustomerUI.AssemblyInfoInputs.cache
+C:\Users\colds\Documents\Revature\Project01\CustomerUI\obj\Debug\net6.0\CustomerUI.AssemblyInfo.cs
+C:\Users\colds\Documents\Revature\Project01\CustomerUI\obj\Debug\net6.0\CustomerUI.csproj.CoreCompileInputs.cache
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerUI.exe
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerUI.deps.json
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerUI.runtimeconfig.json
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerUI.pdb
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerDL.dll
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerModel.pdb
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerDL.pdb
+C:\Users\colds\Documents\Revature\Project01\customerui\obj\Debug\net6.0\CustomerUI.csproj.CopyComplete
+C:\Users\colds\Documents\Revature\Project01\customerui\obj\Debug\net6.0\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01\customerui\obj\Debug\net6.0\refint\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01\customerui\obj\Debug\net6.0\CustomerUI.pdb
+C:\Users\colds\Documents\Revature\Project01\customerui\obj\Debug\net6.0\CustomerUI.genruntimeconfig.cache
+C:\Users\colds\Documents\Revature\Project01\customerui\obj\Debug\net6.0\ref\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01\customerui\bin\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerUI.exe
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerUI.deps.json
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerUI.runtimeconfig.json
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerUI.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerDL.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerModel.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\CustomerDL.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.csproj.AssemblyReference.cache
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.AssemblyInfoInputs.cache
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.AssemblyInfo.cs
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.csproj.CoreCompileInputs.cache
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.csproj.CopyComplete
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\refint\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\CustomerUI.genruntimeconfig.cache
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\obj\Debug\net6.0\ref\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Serilog.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\customerui\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerUI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerUI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerUI.exe
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerUI.deps.json
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerUI.runtimeconfig.json
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerUI.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Serilog.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerDL.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerModel.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\bin\Debug\net6.0\CustomerDL.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.csproj.AssemblyReference.cache
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.AssemblyInfoInputs.cache
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.AssemblyInfo.cs
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.csproj.CoreCompileInputs.cache
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.csproj.CopyComplete
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\refint\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\CustomerUI.genruntimeconfig.cache
+C:\Users\colds\Documents\Revature\Project01 plus\customerui\obj\Debug\net6.0\ref\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerUI.exe
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerUI.deps.json
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerUI.runtimeconfig.json
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerUI.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Serilog.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerDL.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerModel.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\bin\Debug\net6.0\CustomerDL.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.csproj.AssemblyReference.cache
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.AssemblyInfoInputs.cache
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.AssemblyInfo.cs
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.csproj.CoreCompileInputs.cache
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.csproj.CopyComplete
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\refint\CustomerUI.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\CustomerUI.genruntimeconfig.cache
+C:\Users\colds\Documents\Revature\Project_01_Plus\CUstomerUI\obj\Debug\net6.0\ref\CustomerUI.dll

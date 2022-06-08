@@ -1,0 +1,68 @@
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.AssemblyReference.cache
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\CustomerBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\CustomerBL.AssemblyInfoInputs.cache
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\CustomerBL.AssemblyInfo.cs
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.CoreCompileInputs.cache
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\bin\Debug\net6.0\CustomerBL.deps.json
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\bin\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\bin\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\bin\Debug\net6.0\CustomerDL.dll
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\bin\Debug\net6.0\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\bin\Debug\net6.0\CustomerModel.pdb
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\bin\Debug\net6.0\CustomerDL.pdb
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.CopyComplete
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\refint\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01\CustomerBL\obj\Debug\net6.0\ref\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\bin\Debug\net6.0\CustomerBL.deps.json
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\bin\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\bin\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\bin\Debug\net6.0\CustomerDL.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\bin\Debug\net6.0\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\bin\Debug\net6.0\CustomerModel.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\bin\Debug\net6.0\CustomerDL.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.AssemblyReference.cache
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\CustomerBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\CustomerBL.AssemblyInfoInputs.cache
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\CustomerBL.AssemblyInfo.cs
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.CoreCompileInputs.cache
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.CopyComplete
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\refint\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01 - Copy\CustomerBL\obj\Debug\net6.0\ref\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\bin\Debug\net6.0\CustomerBL.deps.json
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\bin\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\bin\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\bin\Debug\net6.0\CustomerDL.dll
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\bin\Debug\net6.0\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\bin\Debug\net6.0\CustomerModel.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\bin\Debug\net6.0\CustomerDL.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.AssemblyReference.cache
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\CustomerBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\CustomerBL.AssemblyInfoInputs.cache
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\CustomerBL.AssemblyInfo.cs
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.CoreCompileInputs.cache
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.CopyComplete
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\refint\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project01 plus\CustomerBL\obj\Debug\net6.0\ref\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\bin\Debug\net6.0\CustomerBL.deps.json
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\bin\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\bin\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\bin\Debug\net6.0\CustomerDL.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\bin\Debug\net6.0\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\bin\Debug\net6.0\CustomerModel.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\bin\Debug\net6.0\CustomerDL.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.AssemblyReference.cache
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\CustomerBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\CustomerBL.AssemblyInfoInputs.cache
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\CustomerBL.AssemblyInfo.cs
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.CoreCompileInputs.cache
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\CustomerBL.csproj.CopyComplete
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\refint\CustomerBL.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\CustomerBL.pdb
+C:\Users\colds\Documents\Revature\Project_01_Plus\CustomerBL\obj\Debug\net6.0\ref\CustomerBL.dll

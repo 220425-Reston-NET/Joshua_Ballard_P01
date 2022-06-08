@@ -1,0 +1,3 @@
+C:\Users\colds\Documents\Revature\Project_01_Plus\publish\CustomerModel.dll
+C:\Users\colds\Documents\Revature\Project_01_Plus\publish\CustomerModel.deps.json
+C:\Users\colds\Documents\Revature\Project_01_Plus\publish\CustomerModel.pdb
