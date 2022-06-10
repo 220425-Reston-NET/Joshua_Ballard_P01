@@ -5,13 +5,12 @@ namespace CustomerUI{
     //References IMenu interface:
     public class MainMenu : IMenu{
         public void Display(){
-            Console.WriteLine("Welcome to Main Store Hub Window");
+            Console.WriteLine("**Welcome to the Main Store Hub Window**");
             Console.WriteLine("[1] - Add Customer");
             Console.WriteLine("[2] - Search for Customer");
-            Console.WriteLine("[3] - View Store Front Inventory");
-            Console.WriteLine("[4] - Place Order");
-            Console.WriteLine("[5] - Replenish Inventory");
-            Console.WriteLine("[6] - Exit Program");
+            Console.WriteLine("[3] - Select Order");
+            Console.WriteLine("[4] - View Customer Order");
+            Console.WriteLine("[5] - Exit Program");
         }
 
         //Method asks for user's choice input:
@@ -27,15 +26,12 @@ namespace CustomerUI{
                 return "SearchCustomer";
             }
             else if(userInput=="3"){
-                return "";
+                return "SelectOrder";
             }
             else if(userInput=="4"){
-                return "";
+                return "ViewCustomerOrder";
             }
             else if(userInput=="5"){
-                return "";
-            }
-            else if(userInput=="6"){
                 return "Exit";
             }
             else {

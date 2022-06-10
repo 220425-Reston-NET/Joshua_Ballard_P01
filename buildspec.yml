@@ -1,19 +1,17 @@
-#another file that tells the aws computer what to do and how to build your application
 version: 0.2
 
 phases:
-  # phase used to install all the neccessary dependencies
   install:
     commands:
-      - echo 'Installing dotnet 6'
+      - echo 'Installing dotNet 6'
       - /usr/local/bin/dotnet-install.sh --channel LTS
 
   pre_build:
     commands:
-      - echo 'Restoring dependencies of each project (the package) and unit testing'
+      - echo 'Restoring dependencies and unit testing'
       - dotnet restore
       - dotnet test --no-restore
-
+  
   build:
     commands:
       - echo 'Building the app'
@@ -21,10 +19,10 @@ phases:
 
   post_build:
     commands:
-      - echo 'Creating the publish folder for the app'
+      - echo 'Creating Publish folder for the app'
       - dotnet publish -c Release -o publish
-
+  
 artifacts:
   files:
     - 'Dockerfile'
-    - 'publish/**/*'
+    - publish/**/*

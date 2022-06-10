@@ -4,8 +4,7 @@ using CustomerModel;
 namespace CustomerDL{
 
     public class SQLCustomerRepository : IRepository<Customer>
-    {
-        
+    {   
         //=================Dependencey Injection==================
         private string _connectionString;
         public SQLCustomerRepository(string c_connectionString)
@@ -37,7 +36,7 @@ namespace CustomerDL{
 
         }
 
-        public async Task<List<Customer>> GetAll()
+        public List<Customer> GetAll()
         {
             string SQLQuery = @"select * from Customer";
             List<Customer> listOfCustomer = new List<Customer>();
@@ -55,10 +54,10 @@ namespace CustomerDL{
                 SqlCommand command = new SqlCommand(SQLQuery, con);
 
                 //Designed to read a database properly and map the information to an object
-                SqlDataReader reader = await command.ExecuteReaderAsync();
+                SqlDataReader reader = command.ExecuteReader();
 
                 //Mapping information into an object:
-                while(await reader.ReadAsync()){//read command goes row by row
+                while(reader.Read()){//read command goes row by row
                     listOfCustomer.Add(new Customer(){
                         Name = reader.GetString(1),
                         Address = reader.GetString(2),

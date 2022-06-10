@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerApi\\CustomerApi.csproj": {}
+    "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\customerapi\\CustomerApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerApi\\CustomerApi.csproj": {
+    "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\customerapi\\CustomerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerApi\\CustomerApi.csproj",
+        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\customerapi\\CustomerApi.csproj",
         "projectName": "CustomerApi",
-        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerApi\\CustomerApi.csproj",
+        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\customerapi\\CustomerApi.csproj",
         "packagesPath": "C:\\Users\\colds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerApi\\obj\\",
+        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\customerapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerBL\\CustomerBL.csproj": {
-                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerBL\\CustomerBL.csproj"
+              "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerBL\\CustomerBL.csproj": {
+                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerBL\\CustomerBL.csproj"
               },
-              "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerDL\\CustomerDL.csproj": {
-                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerDL\\CustomerDL.csproj"
+              "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerDL\\CustomerDL.csproj": {
+                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerDL\\CustomerDL.csproj"
               },
-              "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj": {
-                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj"
+              "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj": {
+                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerBL\\CustomerBL.csproj": {
+    "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerBL\\CustomerBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerBL\\CustomerBL.csproj",
+        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerBL\\CustomerBL.csproj",
         "projectName": "CustomerBL",
-        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerBL\\CustomerBL.csproj",
+        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerBL\\CustomerBL.csproj",
         "packagesPath": "C:\\Users\\colds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerBL\\obj\\",
+        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,11 +101,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerDL\\CustomerDL.csproj": {
-                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerDL\\CustomerDL.csproj"
+              "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerDL\\CustomerDL.csproj": {
+                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerDL\\CustomerDL.csproj"
               },
-              "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj": {
-                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj"
+              "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj": {
+                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerDL\\CustomerDL.csproj": {
+    "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerDL\\CustomerDL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerDL\\CustomerDL.csproj",
+        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerDL\\CustomerDL.csproj",
         "projectName": "CustomerDL",
-        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerDL\\CustomerDL.csproj",
+        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerDL\\CustomerDL.csproj",
         "packagesPath": "C:\\Users\\colds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerDL\\obj\\",
+        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerDL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,8 +162,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj": {
-                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj"
+              "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj": {
+                "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj": {
+    "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj",
+        "projectUniqueName": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj",
         "projectName": "CustomerModel",
-        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\CustomerModel.csproj",
+        "projectPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\CustomerModel.csproj",
         "packagesPath": "C:\\Users\\colds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\CustomerModel\\obj\\",
+        "outputPath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colds\\AppData\\Roaming\\NuGet\\NuGet.Config",

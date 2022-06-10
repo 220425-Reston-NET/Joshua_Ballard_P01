@@ -36,5 +36,4 @@ namespace CustomerModel{
             return $"================\nOrderID: {OrderID}\nLocation: {Location}\nTotalPrice: {TotalPrice}\n================";
         }
     }
-
 }

@@ -6,7 +6,6 @@ from mcr.microsoft.com/dotnet/sdk:6.0 as runtime
 #workdir docker instruction let us create what our worker dir will be for this image
 workdir /app
 
-
 copy /publish ./
 
 #Changed CMD to entrypoint
