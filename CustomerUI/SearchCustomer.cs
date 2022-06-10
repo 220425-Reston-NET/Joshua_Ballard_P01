@@ -1,6 +1,5 @@
 using CustomerBL;
 using CustomerModel;
-
 public class SearchCustomer : IMenu {
     public static Customer foundCustomer;
     //======Dependency Injection=====
@@ -13,11 +12,8 @@ public class SearchCustomer : IMenu {
 
     public void Display()
     {
-        Console.WriteLine("Enter customers name: ");
-       
+        Console.WriteLine("Enter customers name: ");       
     }
-    
-
     public string YourChoice(){
         string customerName = Console.ReadLine();
 

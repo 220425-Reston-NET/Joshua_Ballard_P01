@@ -28,7 +28,6 @@ public class AddCustomer : IMenu{
 
             //Repository.AddCustomer(customerObj);
             _customerBL.AddCustomer(customerObj);
-
         }
 
     public string YourChoice(){

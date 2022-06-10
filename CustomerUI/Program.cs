@@ -40,14 +40,12 @@ IMenu menu = new MainMenu();
         }
         else if(ans == "SelectOrder"){
             Log.Information("User going to Select Order");
-            //menu = new SelectOrder(new OrderBL(new OrderRepository()), new CustomerBL(new SQLCustomerRepository(configuration.GetConnectionString("Joshua_Ballard_Demo"))));
+            menu = new SelectOrder(new OrderBL(new OrderRepository()), new CustomerBL(new SQLCustomerRepository(configuration.GetConnectionString("Joshua_Ballard_Demo"))));
         }
         else if(ans == "ViewCustomerOrder"){
             Log.Information("User selected View Customer Order");
             //menu = new ViewCustomerOrder();
-        }
-        
-
+        }    
         else if (ans =="Exit"){
             repeat = false;
         }
