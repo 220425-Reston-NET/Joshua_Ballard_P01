@@ -41,7 +41,7 @@ workdir /app
 
 copy /publish ./
 
-entrypoint ["dotnet", "CustomerApp.dll"]
+entrypoint ["dotnet", "CustomerApi.dll"]
 
 expose 5000
 
