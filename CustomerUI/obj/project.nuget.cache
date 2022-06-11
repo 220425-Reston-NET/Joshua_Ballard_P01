@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S1B8R9m7RjEvAV7GPH3P04wHpERd5rc03pmixQMB4r2rN3RLz6nIvYl7/yRKhEW6GvzlXoAb0asxTcSXQrt5oQ==",
+  "dgSpecHash": "lD9SM7I8r2vlWazEr8RmMv7rsos+KF0i/ihJEFLH/mOytVz7bf3yobfpkvZIOw6/nPGsV3CCO8ypGcSamcrpYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_plus\\CustomerUI\\CustomerUI.csproj",
+  "projectFilePath": "C:\\Users\\colds\\Documents\\Revature\\Project_01_Plus\\customerui\\CustomerUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\colds\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\colds\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
