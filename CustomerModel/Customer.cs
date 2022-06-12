@@ -7,18 +7,17 @@ namespace CustomerModel{
             public string Phone{get;set;}
             public string Email{get;set;}
   
+        public List<Order> Orders { get; set; }
         public Customer(){
-            Name = "Joe";
-            Address = "123";
-            Phone = "123";
-            Email = "123@123.com";
+            Name = this.Name;
+            Address = this.Address;
+            Phone = this.Phone;
+            Email = this.Email;
         }
+
 
     public override string ToString(){
       return $"Customer Info \n===============\nName: {Name}\nAddress: {Address}\nPhone Number:  {Phone} \nE-mail: {Email}";
     }
-
-
   }//end of class
-
 }//end of namespace

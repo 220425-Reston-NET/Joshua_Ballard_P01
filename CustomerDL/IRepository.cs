@@ -18,8 +18,7 @@ namespace CustomerDL{
         /// <returns></returns>
         Task<List<T>> GetAllAsync();
 
-        //void Update(T p_resource);
-    
+        void Update(T p_resource);
     }
 
 }

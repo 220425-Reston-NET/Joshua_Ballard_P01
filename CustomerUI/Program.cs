@@ -13,18 +13,18 @@ Log.Logger = new LoggerConfiguration()
 //initializing my configuration object
 var configuration = new ConfigurationBuilder() //Builder class used for configuration object
     .SetBasePath(Directory.GetCurrentDirectory()) //Sets the base path to the current directory
-    .AddJsonFile("appsetting.json")//Grabs the specific json file on where the information is from
+    .AddJsonFile("appsettings.json")//Grabs the specific json file on where the information is from
     .Build();//Creates the object
 
 //Creates MainMenu object:
 //Variance and that is letting a reference variable have multiple forms/obects hold by having it define as an interface
 IMenu menu = new MainMenu();
-    bool repeat = true;
 
+    bool repeat = true;
     while (repeat){
         Console.Clear();
-        menu.Display();
-        string ans = menu.YourChoice();
+        menu.Display();//Displays the menu() in IMenu
+        string ans = menu.YourChoice();//Displays the menu() in IMenu()
 
         if (ans == "MainMenu"){
             menu = new MainMenu();
@@ -40,7 +40,7 @@ IMenu menu = new MainMenu();
         }
         else if(ans == "SelectOrder"){
             Log.Information("User going to Select Order");
-            //menu = new SelectOrder(new OrderBL(new OrderRepository()), new CustomerBL(new SQLCustomerRepository(configuration.GetConnectionString("Joshua_Ballard_Demo"))));
+            menu = new SelectOrder(new OrderBL(new OrderRepository()), new CustomersBL(new SQLCustomerRepository(configuration.GetConnectionString("Joshua_Ballard_Demo"))));
         }
         else if(ans == "ViewCustomerOrder"){
             Log.Information("User selected View Customer Order");

@@ -1,14 +1,11 @@
 using System.ComponentModel.DataAnnotations;
 namespace CustomerModel{
-    public class Order
-    {   
+    public class Order{   
         private int _orderID;
 
-        public int OrderID
-        {
-            get { return _orderID; }
-            set
-            {
+        public int OrderID{
+            get{ return _orderID; }
+            set{
                 if(value > 0)
                 {
                     _orderID = value;
@@ -24,15 +21,13 @@ namespace CustomerModel{
         public double TotalPrice { get; set; }
 
 
-        public Order()
-        {
+        public Order(){
             Location = this.Location;
             _lineItems = new List<LineItems>();
             TotalPrice = 0;
         }
 
-        public override string ToString()
-        {
+        public override string ToString(){
             return $"================\nOrderID: {OrderID}\nLocation: {Location}\nTotalPrice: {TotalPrice}\n================";
         }
     }

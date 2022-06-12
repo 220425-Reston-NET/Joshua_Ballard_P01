@@ -1,4 +1,5 @@
 using Microsoft.Data.SqlClient;
+using System.Text.Json;
 using CustomerModel;
 
 namespace CustomerDL{
@@ -68,15 +69,45 @@ namespace CustomerDL{
                 return listOfCustomer;
             }
         }
+        private List<Order> GetCustomerOrder(string c_username){
+            string SQLQuery = @"select c.Username, o.ID, o.Location, o.TotalPrice from Customer c
+                                inner join Orders o on c.Username = o.Username
+                                where c.Username = @Username";
+
+            List<Order> listOfOrders = new List<Order>();
+
+            using (SqlConnection connect = new SqlConnection(_connectionString))
+            {
+                connect.Open();
+
+                SqlCommand command = new  SqlCommand(SQLQuery, connect);
+
+                command.Parameters.AddWithValue("@Username", c_username);
+
+                SqlDataReader reader =  command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                        listOfOrders.Add(new Order(){
+                        OrderID = reader.GetInt32(1),
+                        Location = reader.GetString(2),
+                        TotalPrice = (double)reader.GetDecimal(3)
+                        
+                    });
+                }
+                return listOfOrders;
+            }
+        }
 
         public Task<List<Customer>> GetAllAsync()
         {
             throw new NotImplementedException();
         }
 
-        List<Customer> IRepository<Customer>.GetAll()
+        public void Update(Customer c_resource)
         {
             throw new NotImplementedException();
         }
+
     }
 }

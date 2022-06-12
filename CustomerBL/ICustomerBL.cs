@@ -31,5 +31,7 @@ namespace CustomerBL{
         /// </summary>
         /// <returns></returns>
         Task<List<Customer>> GetAllCustomersAsync();
+
+        void AddOrderToCustomer(Customer p_customer);
     }
 }

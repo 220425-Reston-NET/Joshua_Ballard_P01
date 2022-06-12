@@ -1,7 +1,6 @@
 using CustomerModel;
 
-namespace CustomerBL
-{
+namespace CustomerBL{
     public interface IOrderBL
     {
         /// <summary>
@@ -15,7 +14,7 @@ namespace CustomerBL
         /// </summary>
         /// <param name="c_orderLocation">searches for order</param>
         /// <returns>returns order object</returns>
-        Order SearchOrderbyLocation(string c_orderLocation);
+        Order SearchOrderByLocation(string c_orderLocation);
 
     }
 }

@@ -29,6 +29,13 @@ namespace CustomerBL
                 }
         }
 
+        
+        public void AddOrderToCustomer(Customer c_customer)
+        {
+            _customerRepo.Update(c_customer);
+        }
+        
+
         public List<Customer> GetAllCustomers()
         {
             return _customerRepo.GetAll();

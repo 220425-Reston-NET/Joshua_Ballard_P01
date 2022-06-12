@@ -27,6 +27,21 @@ namespace CustomerDL
         {
             throw new NotImplementedException();
         }
+        public void Update(Customer p_resource)
+        {
+            List<Customer> listofCustomer = GetAll();
+
+            foreach (Customer customerObj in listofCustomer)
+            {
+                if (customerObj.Name == p_resource.Name)
+                {
+                    customerObj.Orders = p_resource.Orders;
+                }
+            }
+
+            string jsonString = JsonSerializer.Serialize(listofCustomer, new JsonSerializerOptions{WriteIndented = true});
+            File.WriteAllText(_filepath, jsonString);
+        }
     }
 
 }
