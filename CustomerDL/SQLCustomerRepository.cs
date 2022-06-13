@@ -8,19 +8,16 @@ namespace CustomerDL{
     {   
         //=================Dependencey Injection==================
         private string _connectionString;
-        public SQLCustomerRepository(string c_connectionString)
-        {
+        public SQLCustomerRepository(string c_connectionString){
             this._connectionString = c_connectionString;
         }
-        public void Add(Customer c_Resource)
-        {
+        public void Add(Customer c_Resource){
             //@ inside the string acts as a parameter
             //Information will be dynamically changed later
             string SQLQuery = @"insert into Customer
                                     values (@customerName,@customerAddress,@customerPhone,@customerEmail)";
 
-            using (SqlConnection con = new SqlConnection(_connectionString))
-            {
+            using (SqlConnection con = new SqlConnection(_connectionString)){
                 con.Open();
 
                 SqlCommand command = new SqlCommand(SQLQuery, con);
@@ -34,11 +31,9 @@ namespace CustomerDL{
                 //Execute SQL statement that is nonquery(won't give anything back):
                 command.ExecuteNonQuery();
             }
-
         }
 
-        public List<Customer> GetAll()
-        {
+        public List<Customer> GetAll(){
             string SQLQuery = @"select * from Customer";
             List<Customer> listOfCustomer = new List<Customer>();
 
@@ -63,16 +58,18 @@ namespace CustomerDL{
                         Name = reader.GetString(1),
                         Address = reader.GetString(2),
                         Phone = reader.GetString(3),
-                        Email = reader.GetString(4)
+                        Email = reader.GetString(4),
+                        Orders = GetCustomerOrder(reader.GetString(0))
                     });
                 }                
                 return listOfCustomer;
             }
         }
         private List<Order> GetCustomerOrder(string c_username){
-            string SQLQuery = @"select c.Username, o.ID, o.Location, o.TotalPrice from Customer c
-                                inner join Orders o on c.Username = o.Username
-                                where c.Username = @Username";
+            string SQLQuery = @"select c.customerName, o.orderId, o.itemName from Customer c
+                                inner join item_quantity_order iq on c.customerId = iq.customerId
+                                inner join Orders o on o.orderId = iq.orderId
+                                where c.customerName = @Name";
 
             List<Order> listOfOrders = new List<Order>();
 
@@ -82,7 +79,7 @@ namespace CustomerDL{
 
                 SqlCommand command = new  SqlCommand(SQLQuery, connect);
 
-                command.Parameters.AddWithValue("@Username", c_username);
+                command.Parameters.AddWithValue("@Name", c_username);
 
                 SqlDataReader reader =  command.ExecuteReader();
 
@@ -90,9 +87,7 @@ namespace CustomerDL{
                 {
                         listOfOrders.Add(new Order(){
                         OrderID = reader.GetInt32(1),
-                        Location = reader.GetString(2),
-                        TotalPrice = (double)reader.GetDecimal(3)
-                        
+
                     });
                 }
                 return listOfOrders;

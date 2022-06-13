@@ -15,6 +15,5 @@ namespace CustomerBL{
         /// <param name="c_orderLocation">searches for order</param>
         /// <returns>returns order object</returns>
         Order SearchOrderByLocation(string c_orderLocation);
-
     }
 }

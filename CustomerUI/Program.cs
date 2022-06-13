@@ -44,7 +44,7 @@ IMenu menu = new MainMenu();
         }
         else if(ans == "ViewCustomerOrder"){
             Log.Information("User selected View Customer Order");
-            //menu = new ViewCustomerOrder();
+            menu = new ViewCustomerOrder();
         }    
         else if (ans =="Exit"){
             repeat = false;

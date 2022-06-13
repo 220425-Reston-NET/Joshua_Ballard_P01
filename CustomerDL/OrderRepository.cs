@@ -5,7 +5,7 @@ namespace CustomerDL
 {
     public class OrderRepository : IRepository<Order>
     {
-        private string _filepath = "../StoreAppDL/Data/Order.json";
+        private string _filepath = "../CustomerDL/Data/Order.json";
         public void Add(Order p_resource)
         {
             throw new NotImplementedException();

@@ -53,3 +53,16 @@
 2022-06-12 08:25:55.854 -04:00 [INF] User going to AddCustomer Menu
 2022-06-12 12:40:52.930 -04:00 [INF] User going to AddCustomer Menu
 2022-06-12 12:41:06.339 -04:00 [INF] User going to Select Order
+2022-06-12 13:39:36.939 -04:00 [INF] User going to Select Order
+2022-06-12 13:43:16.897 -04:00 [INF] User going to AddCustomer Menu
+2022-06-12 13:45:25.534 -04:00 [INF] User going to AddCustomer Menu
+2022-06-12 13:45:46.461 -04:00 [INF] User selected View Customer Order
+2022-06-12 13:45:48.723 -04:00 [INF] User selected View Customer Order
+2022-06-12 13:51:52.386 -04:00 [INF] User selected View Customer Order
+2022-06-12 13:51:54.082 -04:00 [INF] User going to Select Order
+2022-06-12 13:54:21.191 -04:00 [INF] User selected View Customer Order
+2022-06-12 13:54:23.033 -04:00 [INF] User selected View Customer Order
+2022-06-12 13:54:23.885 -04:00 [INF] User going to Select Order
+2022-06-12 13:56:54.328 -04:00 [INF] User going to Select Order
+2022-06-12 13:57:01.217 -04:00 [INF] User going to Select Order
+2022-06-12 14:45:29.308 -04:00 [INF] User selected View Customer Order
