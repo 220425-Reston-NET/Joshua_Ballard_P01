@@ -26,3 +26,4 @@ artifacts:
   files:
     - 'Dockerfile'
     - 'publish/**/*'
+    # Test
